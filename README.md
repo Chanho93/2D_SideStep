@@ -1,5 +1,7 @@
 # 2D_SideStep
 
+고속도로에서 차를 피하며 기록을 갱신해나가는 중독성게임
+
 One Step 
 ![image](https://user-images.githubusercontent.com/48191157/71569128-3f518680-2b10-11ea-868c-dc338c99a6db.png) 1단계는 5초뒤 다음단계로 이동
 
