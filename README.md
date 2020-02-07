@@ -6,7 +6,7 @@
 ![image](https://user-images.githubusercontent.com/48191157/71569136-47112b00-2b10-11ea-9cd0-6256898e5301.png)
 ![image](https://user-images.githubusercontent.com/48191157/71569163-82abf500-2b10-11ea-8e40-303a8ab98474.png)
 
- ->오브젝트 풀링을 이용한 차 스폰
+  ->오브젝트 풀링을 이용한 차 스폰
  
     public GameObject platformPrefab;
     public float speed;
